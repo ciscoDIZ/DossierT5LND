@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria [
+        <!ELEMENT libreria (libro)>
+        <!ELEMENT libro (autor | titulo | editorial)+>
+        <!ELEMENT autor (#PCDATA)>
+        <!ELEMENT titulo (#PCDATA)>
+        <!ELEMENT editorial (#PCDATA)>
+        <!ELEMENT libroAgotado EMPTY>
+]>
+<libreria>
+    <libro>
+        <titulo></titulo>
+        <autor></autor>
+        <editorial></editorial>
+    </libro>
+</libreria>

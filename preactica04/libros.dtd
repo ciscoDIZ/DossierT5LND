@@ -1,0 +1,8 @@
+<!DOCTYPE libreria SYSTEM [
+    <!ELEMENT libreria (libro)>
+    <!ELEMENT libro (autor+,titulo,editorial+)>
+    <!ELEMENT autor (#PCDATA)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT editorial (#PCDATA)>
+    <!ELEMENT libroAgotado EMPTY>
+]>

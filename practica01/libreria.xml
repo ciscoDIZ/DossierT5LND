@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<libreria>
+    <libro>
+        <autor>E.Saint</autor>
+        <titulo>el pincipito</titulo>
+        <editorial>a saber</editorial>
+    </libro>
+    <libro>
+        <autor>Michael Enno</autor>
+        <titulo>La historia interminable</titulo>
+        <editorial>a cabarét</editorial>
+    </libro>
+    <libro>
+        <autor>Brian Sanderson</autor>
+        <titulo>El imperio final</titulo>
+        <editorial>bruguera</editorial>
+    </libro>
+    <libro>
+        <autor>El señor de los anillos</autor>
+        <titulo>JR Tolkien</titulo>
+        <editorial>Minotauro</editorial>
+    </libro>
+</libreria>

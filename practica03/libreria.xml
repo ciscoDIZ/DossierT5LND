@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<libreria>
+    <libro categoria="novela">
+        <autor>E.Saint</autor>
+        <titulo>el pincipito</titulo>
+        <editorial>a saber</editorial>
+    </libro>
+    <libro categoria="novela">
+        <autor>Michael Enno</autor>
+        <titulo>La historia interminable</titulo>
+        <editorial>a cabarét</editorial>
+    </libro>
+    <libro categoria="novela">
+        <autor>Brian Sanderson</autor>
+        <titulo>El imperio final</titulo>
+        <editorial>bruguera</editorial>
+    </libro>
+    <libro categoria="novela">
+        <autor>El señor de los anillos</autor>
+        <titulo>JR Tolkien</titulo>
+        <editorial>Minotauro</editorial>
+    </libro>
+    <libro categoria="cocina">
+        <autor>Arguiñano</autor>
+        <titulo>Cocina con Arguiñano</titulo>
+        <editorial>Bruguera</editorial>
+    </libro>
+    <libro categoria="">
+        <autor></autor>
+        <titulo></titulo>
+        <editorial></editorial>
+    </libro>
+    <libro categoria="">
+        <autor></autor>
+        <titulo></titulo>
+        <editorial></editorial>
+    </libro>
+</libreria>
