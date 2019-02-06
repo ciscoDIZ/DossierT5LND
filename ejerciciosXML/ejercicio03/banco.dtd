@@ -1,0 +1,3 @@
+<!ELEMENT banco (cuenta|cliente)+>
+<!ELEMENT cuenta ()>
+<!ELEMENT cliente ()>

@@ -1,0 +1,8 @@
+
+    <!ELEMENT inmobiliaria (casa)+>
+    <!ELEMENT casa (direccion,propietarios?,precio?)>
+    <!ATTLIST casa metros CDATA #REQUIRED>
+    <!ELEMENT direccion (#PCDATA|descripcion)*>
+    <!ELEMENT descripcion (#PCDATA)>
+    <!ELEMENT propietarios (#PCDATA)>
+    <!ELEMENT precio (#PCDATA)>

@@ -1,0 +1,8 @@
+        <!ELEMENT clases (clase)+>
+        <!ELEMENT clase (profesor+(alumno|alumna)+)>
+        <!ATTLIST clase pizarra (si|no)>
+        <!ELEMENT profesor (nombre,apellidos?)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT apellidos (#PCDATA)>
+        <!ELEMENT alumno (#PCDATA)>
+        <!ELEMENT alumna (#PCDATA)>

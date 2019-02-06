@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clases SYSTEM "clases.dtd">
+<clases>
+    <clase pizarra="si">
+        <profesor>
+            Juan Carlos
+        </profesor>
+        <alumno>
+            Pableras
+        </alumno>
+        <alumno>
+            Jonay
+        </alumno>
+        <alumno>
+            Nyar
+        </alumno>
+        <alumno>
+            Niñei
+        </alumno>
+        <alumno>
+            guido
+        </alumno>
+        <alumno>
+            oscar
+        </alumno>
+        <alumno>
+            yo
+        </alumno>
+        <alumno>
+            Migue
+        </alumno>
+        <alumna>
+            Ita
+        </alumna>
+        <alumno>
+            Saul
+        </alumno>
+        <alumno>
+            VoliBear
+        </alumno>
+        <alumno>
+            David
+        </alumno>
+    </clase>
+</clases>
